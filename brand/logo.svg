@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">AI-автоматизация для бизнеса</title>
+
+  <!-- Знак: три узла процесса, связанные в букву «А» -->
+  <g fill="none" stroke="#0F766E" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 62 L40 16 L64 62" stroke-width="7"/>
+    <path d="M26.5 44 H53.5" stroke-width="6"/>
+  </g>
+  <!-- Рутинные шаги -->
+  <circle cx="16" cy="62" r="7" fill="#FAF8F4" stroke="#0F766E" stroke-width="5"/>
+  <circle cx="64" cy="62" r="7" fill="#FAF8F4" stroke="#0F766E" stroke-width="5"/>
+  <!-- Узел AI: результат -->
+  <circle cx="40" cy="16" r="10" fill="#E8823A" stroke="#FAF8F4" stroke-width="4"/>
+
+  <!-- Надпись -->
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="94" y="40" font-size="29" font-weight="700" fill="#0F766E" letter-spacing="-0.3">AI-автоматизация</text>
+    <text x="95" y="66" font-size="20" font-weight="400" fill="#1D2321">для бизнеса</text>
+  </g>
+</svg>
